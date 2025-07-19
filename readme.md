@@ -1,5 +1,5 @@
-# Hi 👋, I'm Manishkumar Chetpalli
-### 🚀 Data Engineer | Big Data Enthusiast | Open Source Contributor
+# Hi , I'm Manishkumar Chetpalli
+###  Data Engineer | Big Data Enthusiast | Open Source Contributor
 
 - 🔭 I write data engineering articles on [Data Engineering Notes](https://manish-chet.github.io/Data-Engineering-Works/)
 
