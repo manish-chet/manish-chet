@@ -11,7 +11,6 @@
 
 ---
 
-## 📊 GitHub Stats
 ![Manish's GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=manish-chet&theme=tokyonight)
 
 ---
