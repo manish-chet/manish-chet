@@ -41,7 +41,7 @@
 <a href="https://swagger.io/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swagger/swagger-original.svg" alt="swagger" width="40" height="40"/></a>
 <a href="https://www.terraform.io/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original.svg" alt="terraform" width="40" height="40"/></a>
 ---
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=manish-chet&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 ---
 
 ## 🤝 Connect With Me
