@@ -13,7 +13,6 @@
 
 ## 📊 GitHub Stats
 ![Manish's GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=manish-chet&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=manish-chet&layout=compact&theme=radical)
 
 ---
 
