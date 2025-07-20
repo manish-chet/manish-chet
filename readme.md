@@ -42,8 +42,3 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=manish-chet&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 
 
----
-
-## 🤝 Connect With Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/manish-chet/)
-[![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)](https://github.com/manish-chet)
