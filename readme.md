@@ -18,6 +18,7 @@
 <p align="left">
 <a href="https://hadoop.apache.org/" target="_blank" rel="noreferrer"> <img src="https://hadoop.apache.org/images/hadoop-logo.jpg" alt="apache-hadoop" width="40" height="40"/></a>  
 <a href="https://spark.apache.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apachespark/apachespark-original-wordmark.svg" alt="apache-spark" width="40" height="40"/></a>
+<a href="https://hive.apache.org/" target="_blank" rel="noreferrer"> <img src="  https://hive.apache.org/images/hive.svg" alt="apache-hive" width="40" height="40"/></a>
 <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/></a>
 <a href="https://kubernetes.io/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-original.svg" alt="kubernetes" width="40" height="40"/></a>
 <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="postgresql" width="40" height="40"/></a>
