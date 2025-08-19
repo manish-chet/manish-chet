@@ -28,7 +28,6 @@
 <a href="https://docs.github.com/en/actions" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/githubactions/githubactions-original.svg" alt="github-actions" width="40" height="40"/></a>
 <a href="https://grafana.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/grafana/grafana-original.svg" alt="grafana" width="40" height="40"/></a>
 <a href="https://redis.io/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" alt="redis" width="40" height="40"/></a>
-
 <a href="https://flink.apache.org/" target="_blank" rel="noreferrer"> <img src="https://flink.apache.org/img/logo/png/100/flink_squirrel_100_color.png" alt="Apache Flink" width="40" height="40"/></a>
 
 
