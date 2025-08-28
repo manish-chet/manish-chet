@@ -8,11 +8,6 @@
 - 📄 Know about my experiences [https://www.linkedin.com/in/manishkumarchetpalli/](https://www.linkedin.com/in/manishkumarchetpalli/)
 
 
-
----
-
-![Manish's GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=manish-chet&theme=tokyonight)
-
 ---
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
