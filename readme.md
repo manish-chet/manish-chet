@@ -28,7 +28,7 @@
 <a href="https://flink.apache.org/" target="_blank" rel="noreferrer"> <img src="https://flink.apache.org/img/logo/png/100/flink_squirrel_100_color.png" alt="Apache Flink" width="40" height="40"/></a>
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=manish-chet&layout=donut&hide=html,css,javascript)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=manish-chet&layout=donut&hide=html,css,javascript,jupyter_notebook)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
