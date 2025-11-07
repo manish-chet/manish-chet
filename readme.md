@@ -9,7 +9,7 @@
 
 
 ---
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Tools Worked On:</h3>
 <p align="left">
 <a href="https://hadoop.apache.org/" target="_blank" rel="noreferrer"> <img src="https://hadoop.apache.org/images/hadoop-logo.jpg" alt="apache-hadoop" width="100" height="100"/></a>  
 <a href="https://spark.apache.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apachespark/apachespark-original-wordmark.svg" alt="apache-spark" width="40" height="40"/></a>
