@@ -1,11 +1,11 @@
 # Hi , I'm Manishkumar Chetpalli
 ###  Data Engineer | Big Data Enthusiast | Open Source Contributor
 
--  I write data engineering articles on [Data Engineering Projects](https://manishchetpalli.github.io/Data-Engineering-Projects/)
+  I write data engineering articles on [Data Engineering Projects](https://manishchetpalli.github.io/Data-Engineering-Projects/)
 
--  Ask me about **Big Data, Data engineering, SQL, Databases, Data pipelines, Data infrastructure, Data Warehouse**
+  Ask me about **Big Data, Data engineering, SQL, Databases, Data pipelines, Data infrastructure, Data Warehouse**
 
--  Know about my experiences [https://www.linkedin.com/in/manishkumarchetpalli/](https://www.linkedin.com/in/manishkumarchetpalli/)
+  Know about my experiences [https://www.linkedin.com/in/manishkumarchetpalli/](https://www.linkedin.com/in/manishkumarchetpalli/)
 
 
 ---
